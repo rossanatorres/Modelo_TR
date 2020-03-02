@@ -13,3 +13,7 @@ Imágnes que hice en plotly y quiero usar
 [imagen5](https://rossanatorres.github.io/Modelo_TR/k2012_16_1.html)
 
 [imagen6](https://rossanatorres.github.io/Modelo_TR/k2012_16_2.html)
+
+[imagen7](https://rossanatorres.github.io/Modelo_TR/k2016_18_1.html)
+
+[imagen8](https://rossanatorres.github.io/Modelo_TR/k2016_18_2.html)
