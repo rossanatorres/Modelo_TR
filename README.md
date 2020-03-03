@@ -22,6 +22,6 @@ Imágenes que hice en plotly y quiero usar en alguna presentación
 
 [2000 a 2018 b](https://rossanatorres.github.io/Modelo_TR/k2000_18_2.html)
 
-[2000 a 2006 Fallah-fini a](https://rossanatorres.github.io/Modelo_TR/k2000_18_1_F.html)
+[2000 a 2006 Fallah-fini a](https://rossanatorres.github.io/Modelo_TR/k2000_6_1_F.html)
 
-[2000 a 2016 Fallah-fini b](https://rossanatorres.github.io/Modelo_TR/k2000_18_2_F.html)
+[2000 a 2016 Fallah-fini b](https://rossanatorres.github.io/Modelo_TR/k2000_6_2_F.html)
